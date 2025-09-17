@@ -2,8 +2,7 @@
 
 echo "Instalando módulo Cliente..."
 
-cp control/*.php ../control/
-cp model/*.php ../model/
-cp view/*.html ../view/
+cp control/recurso/*.php ../control/recurso/
+cp model/recurso/*.php ../model/recurso/
 
 echo "Módulo instalado com sucesso!"
